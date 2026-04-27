@@ -6,30 +6,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/victorhferreira016">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhferreira016&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhferreira016&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ## 🧠 Main Technologies
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PyTorch" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="TensorFlow" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Pandas" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="NumPy" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Jupyter" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Scikit-learn" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="R" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,cpp,r,postgres,javascript,java,git,docker,linux&perline=9" />
+  </a>
+</p>
 
 ---
 
@@ -53,5 +36,3 @@
 ---
 
 ![snake gif](https://github.com/VictorHFerreira016/VictorHFerreira016/blob/output/github-snake-dark.svg)
-
-
