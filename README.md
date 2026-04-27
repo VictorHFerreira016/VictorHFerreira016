@@ -19,7 +19,7 @@
 ## 🌐 Connect with me
 
 <div align="center"> 
-  <a href="https://www.youtube.com/@Frenchguy7" target="_blank">
+  <a href="https://www.youtube.com/@VictorHugo-IA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.instagram.com/victor.hf7/" target="_blank">
